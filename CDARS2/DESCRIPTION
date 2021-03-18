@@ -1,0 +1,17 @@
+Package: CDARS2
+Type: Package
+Title: Fast Solution for data management 
+Version: 0.1.0
+Author: 1155063467
+Maintainer: 1155063467 <1155063467@link.cuhk.edu.hk>
+Description: This package creates Table 1, Survival analysis summary and import data 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr,
+  readxl,
+  haven
+Suggests:
+  MASS
+RoxygenNote: 7.1.1
