@@ -1,2 +1,3 @@
 # CDARS
-CDARS for dummies
+CDARS for data cleaning
+
